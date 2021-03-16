@@ -1,0 +1,16 @@
+# Site Settings
+title: Jakob Weickmann
+email: jakob.weickmann@posteo.de
+description: >
+  I am a psychologist and japanologist who is passionate about programming and 
+  data science. Thank you for visiting my website. Here you can access my resume, 
+  my photography portfolio and my publications.
+baseurl: '/myPortfolio'
+url: 'https://jweickm.github.io'
+github_username:  jweickm
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
