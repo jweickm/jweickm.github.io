@@ -5,7 +5,7 @@ description: >
   I am a psychologist and japanologist who is passionate about programming and 
   data science. Thank you for visiting my website. Here you can access my resume, 
   my photography portfolio and my publications.
-baseurl: '/myPortfolio'
+baseurl: ''
 url: 'https://jweickm.github.io'
 github_username:  jweickm
 # Build Settings
