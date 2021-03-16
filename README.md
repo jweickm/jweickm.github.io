@@ -1,8 +1,7 @@
-# Start Jekyll
+# About me
 
-A guide to getting started with Jekyll.
-
-### [Read the tutorial](https://taniarascia.com/make-a-static-website-with-jekyll) | [View the demo](http://taniarascia.github.io/startjekyll/)
+This is a website where I introduce myself. Thank you for dropping by!
+Here I host my resume, some pictures and my blog. 
 
 ## Purpose
 
@@ -13,8 +12,6 @@ A guide to getting started with Jekyll.
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- [Jakob Weickmann](https://jweickmj.github.io)
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).

@@ -1,0 +1,7 @@
+.sass-cache
+*.swp
+*~
+_site
+Gemfile
+Gemfile.lock
+2015-11-30-welcome-to-jekyll.markdown
